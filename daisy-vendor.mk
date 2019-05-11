@@ -68,6 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/framework/vendor.qti.ims.callinfo-V1.0-java.jar:system/framework/vendor.qti.ims.callinfo-V1.0-java.jar \
     vendor/xiaomi/daisy/proprietary/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar:system/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar \
     vendor/xiaomi/daisy/proprietary/framework/vendor.qti.latency-V2.0-java.jar:system/framework/vendor.qti.latency-V2.0-java.jar \
+    vendor/xiaomi/daisy/proprietary/lib/android.frameworks.sensorservice@1.0-v27.so:system/lib/android.frameworks.sensorservice@1.0-v27.so \
     vendor/xiaomi/daisy/proprietary/lib/com.qualcomm.qti.dpm.api@1.0.so:system/lib/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib/com.qualcomm.qti.imscmservice@1.0.so:system/lib/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib/com.qualcomm.qti.imscmservice@2.0.so:system/lib/com.qualcomm.qti.imscmservice@2.0.so \
@@ -76,6 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib/extractors/libmmparser.so:system/lib/extractors/libmmparser.so \
     vendor/xiaomi/daisy/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
+    vendor/xiaomi/daisy/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/xiaomi/daisy/proprietary/lib/lib-imsvideocodec.so:system/lib/lib-imsvideocodec.so \
     vendor/xiaomi/daisy/proprietary/lib/lib-imsvtextutils.so:system/lib/lib-imsvtextutils.so \
     vendor/xiaomi/daisy/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
@@ -101,6 +103,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/xiaomi/daisy/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
     vendor/xiaomi/daisy/proprietary/lib/libsdsprpc_system.so:system/lib/libsdsprpc_system.so \
+    vendor/xiaomi/daisy/proprietary/lib/libvidhance_gyro.so:system/lib/libvidhance_gyro.so \
     vendor/xiaomi/daisy/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
     vendor/xiaomi/daisy/proprietary/lib/libwfdclient.so:system/lib/libwfdclient.so \
     vendor/xiaomi/daisy/proprietary/lib/libwfdcodecv4l2.so:system/lib/libwfdcodecv4l2.so \
@@ -144,6 +147,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/daisy/proprietary/lib/vendor.xiaomi.hardware.mlipay@1.1.so:system/lib/vendor.xiaomi.hardware.mlipay@1.1.so \
     vendor/xiaomi/daisy/proprietary/lib/vendor.xiaomi.hardware.mtdservice@1.0.so:system/lib/vendor.xiaomi.hardware.mtdservice@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib/vendor.xiaomi.hardware.mtdservice@1.1.so:system/lib/vendor.xiaomi.hardware.mtdservice@1.1.so \
+    vendor/xiaomi/daisy/proprietary/lib64/android.frameworks.sensorservice@1.0-v27.so:system/lib64/android.frameworks.sensorservice@1.0-v27.so \
     vendor/xiaomi/daisy/proprietary/lib64/com.qualcomm.qti.dpm.api@1.0.so:system/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib64/com.qualcomm.qti.imscmservice@1.0.so:system/lib64/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/xiaomi/daisy/proprietary/lib64/com.qualcomm.qti.imscmservice@2.0.so:system/lib64/com.qualcomm.qti.imscmservice@2.0.so \
